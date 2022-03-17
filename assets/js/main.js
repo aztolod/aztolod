@@ -245,6 +245,7 @@
 					overlayOpacity: 0.1,
 					popupCloserText: '',
 					popupLoaderText: '',
+					popupLoaderText: '',
 					selector: '.work-item a.image',
 					usePopupCaption: true,
 					usePopupDefaultStyling: false,
