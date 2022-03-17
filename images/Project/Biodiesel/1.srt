@@ -1,0 +1,44 @@
+1
+00:00:01 --> 00:00:05
+Pour the 2 liters of cooking oil and heat it to 50℃
+
+2
+00:00:07 --> 00:00:11
+Open the valve to move the cooking oil to the mixing vessel
+
+3
+00:00:13 --> 00:00:19
+Add the methoxide ,400 mL of methanol and 12.66 grams of sodium hydroxide (NaOH), and stir of 30 minutes
+
+4
+00:00:20 --> 00:00:24
+Let the mixture settle for 1.5 hours
+
+5
+00:00:25 --> 00:00:29
+Open the valve to drain the glycerine
+
+6
+00:00:31 --> 00:00:35
+Pour 500 L of distilled water and heat it for 30 minutes
+
+7
+00:00:38 --> 00:00:46
+Turn on the pump to transport the unwashed biodiesel to the mixing vessel
+
+8
+00:00:54 --> 00:01:00
+Open the valve and move the heated water to the mixing vessel
+
+9
+00:01:03 --> 00:01:07
+Let the unwashed biodiesel settle until water becomes white
+
+10
+00:01:09 --> 00:01:14
+Open the vessel and drain the water, repeat this step until the water is clear
+
+11
+00:01:18 --> 00:01:27
+After 7-8 wash cycles the biodiesel is now clear
+
